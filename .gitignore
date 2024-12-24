@@ -1,0 +1,9 @@
+.env
+venv
+Data/
+notebook/experience_metrics.csv
+notebook/postgres_load.ipynb
+notebook/use_behavior_aggregated.csv
+scripts/
+
+
